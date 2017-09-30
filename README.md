@@ -7,3 +7,4 @@
 2.运行库：PyQt5，sys,xlrd,xlwt,xlutils
 3.运行主文件“basicwindow.py”即可运行程序
 4.需要xls文件和主程序在同一文件夹.
+5.Excel文件无法上传（所以自己创一个吧，严格按照格式来）
